@@ -4,7 +4,7 @@
 
 int main(void){
 	usleep(5000000);
-	printf("\nI took a Nap\n");
-	usleep(1010101);
+	printf("\nI took a long  Nap\n");
+	usleep(10010101);
 	return 0;
 }
